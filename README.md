@@ -58,7 +58,7 @@ Moreover, I will compute the P-Value for each feature to check if I can reject t
 
 ### 4. Summary of the results of the analysis
 
-For in-depth-analysis please refer to my MEDIUM Blog Post: https://medium.com/@p.bartl/the-pisa-assessment-its-way-more-than-just-a-conventional-school-test-7b6c884d7f2a
+For in-depth-analysis please refer to my MEDIUM Blog Post: https://medium.com/@p.bartl/my-capstone-project-what-types-of-financial-aid-are-most-effective-in-maximizing-degree-c4f0c2fc0792
 
 By analyzing the Delta Cost Project Data I came up with some findings regarding the degree completion rates as well as different grant-types and their ratios. The exploratory analysis showed that over time the pell-grant-ratio decreases while the other grant-type-ratios as well as the overall degree completion rate increases. On a lower level of data analysis we could observe that there is a variance regarding the distribution of the pell-grant-ratios. On the other hand all other grant-type-ratio had a much lower variance.<br>
 <br>
